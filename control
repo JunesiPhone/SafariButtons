@@ -1,0 +1,11 @@
+Package: com.junesiphone.safaributtons
+Name: Safari Buttons
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Color safari buttons
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Addons (Tweaks)
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/safaributtons
+tag: cydia::paid
